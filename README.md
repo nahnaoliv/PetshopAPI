@@ -14,38 +14,6 @@ Iniciando primeira API, criado uma API simples para um PetShop, API permitirá q
 
   * [Documentação](https://github.com/nahnaoliv/PetshopAPI)
 
-  #### Estrutura do Projeto
-
-  `PetshopAPI/`
-  `│`
-  `├── Context/`
-  `│   └── PetshopContext.cs/`
-
-  `├── Controllers/`
-
-  `│   ├── ClienteController.cs/`
-
-  `│   ├── ClientePetController.cs/`
-  `│   └── ServicoController.cs/`
-
-  `├── Migrations/`
-
-  `├── Models/`
-  `│   ├── ClientePet/`
-  `│   │   └── ClientePet.cs`
-
-  `│   │   └── EnunmRaca.cs`
-  `│   ├── Clientes`
-  `│   │   └── Clientes.cs`
-  `│   │   └── EnumStatusClientes.cs`
-
-  `│   ├── Servico`
-  `│   │   └── EnumDisponibilidade.cs`
-
-  `│   └──   └── Servico.cs`
-  `├── PetshopAPI.sln`
-  `└── README.md`
-
   #### Retorna itens por ID
 
   ```http
