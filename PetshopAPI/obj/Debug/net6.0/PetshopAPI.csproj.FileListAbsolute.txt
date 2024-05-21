@@ -1,0 +1,131 @@
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\PetshopAPI.exe
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\PetshopAPI.deps.json
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\PetshopAPI.runtimeconfig.json
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\PetshopAPI.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\PetshopAPI.pdb
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\obj\Debug\net6.0\PetshopAPI.csproj.AssemblyReference.cache
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\obj\Debug\net6.0\PetshopAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\obj\Debug\net6.0\PetshopAPI.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\obj\Debug\net6.0\PetshopAPI.AssemblyInfo.cs
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\obj\Debug\net6.0\PetshopAPI.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\obj\Debug\net6.0\PetshopAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\obj\Debug\net6.0\PetshopAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\obj\Debug\net6.0\staticwebassets\msbuild.PetshopAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.PetshopAPI.props
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PetshopAPI.props
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PetshopAPI.props
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\obj\Debug\net6.0\scopedcss\bundle\PetshopAPI.styles.css
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\obj\Debug\net6.0\PetshopAPI.csproj.Up2Date
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\obj\Debug\net6.0\PetshopAPI.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\obj\Debug\net6.0\refint\PetshopAPI.dll
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\obj\Debug\net6.0\PetshopAPI.pdb
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\obj\Debug\net6.0\PetshopAPI.genruntimeconfig.cache
+C:\Users\maary\source\repos\PetshopAPI\PetshopAPI\obj\Debug\net6.0\ref\PetshopAPI.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\PetshopAPI.exe
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\PetshopAPI.deps.json
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\PetshopAPI.runtimeconfig.json
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\PetshopAPI.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\PetshopAPI.pdb
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\obj\Debug\net6.0\PetshopAPI.csproj.AssemblyReference.cache
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\obj\Debug\net6.0\PetshopAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\obj\Debug\net6.0\PetshopAPI.AssemblyInfoInputs.cache
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\obj\Debug\net6.0\PetshopAPI.AssemblyInfo.cs
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\obj\Debug\net6.0\PetshopAPI.csproj.CoreCompileInputs.cache
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\obj\Debug\net6.0\PetshopAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\obj\Debug\net6.0\PetshopAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\obj\Debug\net6.0\PetshopAPI.sourcelink.json
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\obj\Debug\net6.0\staticwebassets\msbuild.PetshopAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.PetshopAPI.props
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PetshopAPI.props
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PetshopAPI.props
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\obj\Debug\net6.0\scopedcss\bundle\PetshopAPI.styles.css
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\obj\Debug\net6.0\PetshopAPI.csproj.Up2Date
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\obj\Debug\net6.0\PetshopAPI.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\obj\Debug\net6.0\refint\PetshopAPI.dll
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\obj\Debug\net6.0\PetshopAPI.pdb
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\obj\Debug\net6.0\PetshopAPI.genruntimeconfig.cache
+C:\Users\maary\OneDrive\Área de Trabalho\PetshopAPI\PetshopAPI\obj\Debug\net6.0\ref\PetshopAPI.dll
